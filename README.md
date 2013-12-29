@@ -1,11 +1,13 @@
 2013
 ====
-일상 
-	1.	눈오는 센트럴파크
-	2.	2월 24일 제주도 파도
-	3.	3월 2일 David’s house party 
-	4.	3월 10일 Christine at New Museum 
-	5.	3월 16일 Dan and Ellie’s house 
+  <p>일상:</p>
+  
+  <ol>
+	<li>	눈오는 센트럴파크</li>
+	<li>	2월 24일 제주도 파도 </li>
+	<li>	3월 2일 David’s house party </li>
+	<li>	3월 10일 Christine at New Museum </li>
+	<li>	3월 16일 Dan and Ellie’s house </li> 
 	6.	4월 10일 David’s studio 
 	7.	4월 14일 David’s pictures and CK 
 	8.	4월 18일 Central Park 
@@ -27,3 +29,5 @@
 	24.	 SfPC
 	25.	11월 
 	26.	 12월 오유진의 책들  
+
+  </ol>
